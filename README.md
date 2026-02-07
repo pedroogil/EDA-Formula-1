@@ -58,6 +58,9 @@ Jupyter Notebook
 Los datos utilizados proceden de archivos CSV con información histórica de la Fórmula 1, incluyendo resultados de carreras, pilotos, escuderías y circuitos.
 El dataset requiere un proceso previo de limpieza y estructuración debido a inconsistencias y valores faltantes en algunas variables.
 
-## 👤 Autor
+## 🤝 ¡Hablemos!
+👤 **Pedro Gil Olivares** 
 
-Proyecto desarrollado por Pedro como parte de su portfolio personal en análisis y ciencia de datos.
+🔗 www.linkedin.com/in/pedro-gil-olivares-485517216
+
+📧 pedrogilolivares009@gmail.com  
